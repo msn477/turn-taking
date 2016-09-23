@@ -1,0 +1,156 @@
+### Self Features
+## volume
+vo -3200 to -1600 self
+vo  1600 to  3200 self
+
+vo -1600 to  -800 self
+vo   800 to  1600 self
+
+vo  -800 to  -400 self
+vo   400 to   800 self
+
+vo  -400 to  -200 self
+vo   200 to   400 self
+
+vo  -200 to  -100 self
+vo   100 to   200 self
+
+vo  -100 to     0 self
+vo     0 to   100 self
+
+
+## pitch lowness
+tl -3200 to -1600 self
+tl  1600 to  3200 self
+
+tl -1600 to  -800 self
+tl   800 to  1600 self
+
+tl  -800 to  -400 self
+tl   400 to   800 self
+
+tl  -400 to  -200 self
+tl   200 to   400 self
+
+tl  -200 to  -100 self
+tl   100 to   200 self
+
+tl  -100 to     0 self
+tl     0 to   100 self
+
+## pitch highness
+th -3200 to -1600 self
+th  1600 to  3200 self
+
+th -1600 to  -800 self
+th   800 to  1600 self
+
+th  -800 to  -400 self
+th   400 to   800 self
+
+th  -400 to  -200 self
+th   200 to   400 self
+
+th  -200 to  -100 self
+th   100 to   200 self
+
+th  -100 to     0 self
+th     0 to   100 self
+
+## speaking rate 
+sr -3200 to -1600 self
+sr  1600 to  3200 self
+
+sr -1600 to  -800 self
+sr   800 to  1600 self
+
+sr  -800 to  -400 self
+sr   400 to   800 self
+
+sr  -400 to  -200 self
+sr   200 to   400 self
+
+sr  -200 to  -100 self
+sr   100 to   200 self
+
+sr  -100 to     0 self
+sr     0 to   100 self
+
+
+###  Interlocutor Features 
+## volume
+vo -3200 to -1600 inte
+vo  1600 to  3200 inte
+
+vo -1600 to  -800 inte
+vo   800 to  1600 inte
+
+vo  -800 to  -400 inte
+vo   400 to   800 inte
+
+vo  -400 to  -200 inte
+vo   200 to   400 inte
+
+vo  -200 to  -100 inte
+vo   100 to   200 inte
+
+vo  -100 to     0 inte
+vo     0 to   100 inte
+
+
+## pitch lowness
+tl -3200 to -1600 inte
+tl  1600 to  3200 inte
+
+tl -1600 to  -800 inte
+tl   800 to  1600 inte
+
+tl  -800 to  -400 inte
+tl   400 to   800 inte
+
+tl  -400 to  -200 inte
+tl   200 to   400 inte
+
+tl  -200 to  -100 inte
+tl   100 to   200 inte
+
+tl  -100 to     0 inte
+tl     0 to   100 inte
+
+## pitch highness
+th -3200 to -1600 inte
+th  1600 to  3200 inte
+
+th -1600 to  -800 inte
+th   800 to  1600 inte
+
+th  -800 to  -400 inte
+th   400 to   800 inte
+
+th  -400 to  -200 inte
+th   200 to   400 inte
+
+th  -200 to  -100 inte
+th   100 to   200 inte
+
+th  -100 to     0 inte
+th     0 to   100 inte
+
+## speaking rate 
+sr -3200 to -1600 inte
+sr  1600 to  3200 inte
+
+sr -1600 to  -800 inte
+sr   800 to  1600 inte
+
+sr  -800 to  -400 inte
+sr   400 to   800 inte
+
+sr  -400 to  -200 inte
+sr   200 to   400 inte
+
+sr  -200 to  -100 inte
+sr   100 to   200 inte
+
+sr  -100 to     0 inte
+sr     0 to   100 inte

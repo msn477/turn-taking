@@ -31,3 +31,5 @@ For example, to compare the result for volume feature in 1600 to 3200 window, fo
 >> mat = maleVO(1).result;
 >> plot(mat,'DisplayName','mat');
 >> legend('Actual Data', 'Prediction');
+
+Similar commands are applicable for other prosodic features as well.
